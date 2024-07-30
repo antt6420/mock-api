@@ -1,0 +1,15 @@
+{
+  "contents": {
+    "en": [
+      "Fix Sui Method",
+      "Support EIP6963 Wallet Selection",
+      "Speed up Transaction"
+    ],
+    "vi": [
+      "Fix Sui Method",
+      "Support EIP6963 Wallet Selection",
+      "Speed up Transaction"
+    ]
+  },
+  "version": "9.5.5"
+}
