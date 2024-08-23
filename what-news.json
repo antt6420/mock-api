@@ -1,15 +1,17 @@
 {
   "contents": {
     "en": [
-      "Fix Sui Method",
-      "Support EIP6963 Wallet Selection",
-      "Speed up Transaction"
+      "New chains added including: Cyber, Xterio, Astar zkEVM, Fraxtal, Lightlink, Orange, Zircuit and Abstract Testnet",
+      "Select wallet to connect with DApp",
+      "Speed up gas for a pending EVM transaction",
+      "Sui DApps connection enhancement"
     ],
     "vi": [
-      "Fix Sui Method",
-      "Support EIP6963 Wallet Selection",
-      "Speed up Transaction"
+      "Thêm các chain mới gồm Cyber, Xterio, Astar zkEVM, Fraxtal, Lightlink, Orange, Zircuit và Abstract Testnet",
+      "Chọn ví để kết nối DApp",
+      "Tăng tốc phí gas cho giao dịch chờ xử lý ở mạng EVM",
+      "Cải thiện kết nối với DApps của mạng SUI"
     ]
   },
-  "version": "9.5.5"
+  "version": "9.6.0"
 }
