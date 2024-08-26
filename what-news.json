@@ -11,7 +11,25 @@
       "Chọn ví để kết nối DApp",
       "Tăng tốc phí gas cho giao dịch chờ xử lý ở mạng EVM",
       "Cải thiện kết nối với DApps của mạng SUI"
-    ]
+    ],
+    "EN": {
+      "title": "Be ready to explore our newest updates:",
+      "descriptions": [
+        "New chains added including: Cyber, Xterio, Astar zkEVM, Fraxtal, Lightlink, Orange, Zircuit and Abstract Testnet",
+        "Select wallet to connect with DApp",
+        "Speed up gas for a pending EVM transaction",
+        "Sui DApps connection enhancement"
+      ]
+    },
+    "VI": {
+      "title": "Cùng khám phá những cập nhật mới nhất:",
+      "descriptions": [
+        "Thêm các chain mới gồm Cyber, Xterio, Astar zkEVM, Fraxtal, Lightlink, Orange, Zircuit và Abstract Testnet",
+        "Chọn ví để kết nối DApp",
+        "Tăng tốc phí gas cho giao dịch chờ xử lý ở mạng EVM",
+        "Cải thiện kết nối với DApps của mạng SUI"
+      ]
+    }
   },
   "version": "9.6.2"
 }
