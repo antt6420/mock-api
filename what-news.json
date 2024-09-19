@@ -1,17 +1,17 @@
 {
   "contents": {
     "EN": {
-      "title": "",
+      "title": "11233",
       "descriptions": [
         "Support NFTs followings pNFT (programmable NFT)"
       ]
     },
     "VI": {
-      "title": "",
+      "title": "1111",
       "descriptions": [
         "Hỗ trợ các NFT thuộc chuẩn pNFT (programmable NFT)"
       ]
     }
   },
-  "version": "9.6.2"
+  "version": "9.6.3"
 }
