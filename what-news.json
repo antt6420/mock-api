@@ -1,17 +1,25 @@
 {
   "contents": {
     "EN": {
-      "title": "",
+      "title": "Be ready to explore our newest update",
       "descriptions": [
-        "Support NFTs followings pNFT (programmable NFT)"
+        "Allow users to cancel pending transactions",
+        "Display estimated gas fees for transactions on Layer 2 chains",
+        "Notify users of insufficient gas fees for transactions on Solana Dapps",
+        "Enhance overall performance for a better experience",
+        "Support sending cost-free stablecoin transactions on BNB Chain"
       ]
     },
     "VI": {
-      "title": "",
+      "title": "Cùng khám phá những cập nhật mới nhất:",
       "descriptions": [
-        "Hỗ trợ các NFT thuộc chuẩn pNFT (programmable NFT)"
+        "Cho phép người dùng hủy các giao dịch đang chờ xử lý.",
+        "Hiển thị ước tính phí gas cho các giao dịch trên các chain Layer 2",
+        "Thông báo cho người dùng về việc không đủ phí gas cho các giao dịch trên Solana Dapps",
+        "Cải thiện hiệu suất tổng thể để mang lại trải nghiệm tốt hơn",
+        "Hỗ trợ gửi giao dịch miễn phí cho các đồng stablecoin trên BNB Chain"
       ]
     }
   },
-  "version": "9.6.1"
+  "version": "9.7.0"
 }
