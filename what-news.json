@@ -1,23 +1,15 @@
 {
   "contents": {
     "EN": {
-      "title": "Be ready to explore our newest update",
+      "title": "New Version Released!",
       "descriptions": [
-        "Allow users to cancel pending transactions",
-        "Display estimated gas fees for transactions on Layer 2 chains",
-        "Notify users of insufficient gas fees for transactions on Solana Dapps",
-        "Enhance overall performance for a better experience",
-        "Support sending cost-free stablecoin transactions on BNB Chain"
+        "Support sending cost-free stablecoin transactions on opBNB Chain"
       ]
     },
     "VI": {
-      "title": "Cùng khám phá những cập nhật mới nhất:",
+      "title": "Phiên bản mới!",
       "descriptions": [
-        "Cho phép người dùng hủy các giao dịch đang chờ xử lý.",
-        "Hiển thị ước tính phí gas cho các giao dịch trên các chain Layer 2",
-        "Thông báo cho người dùng về việc không đủ phí gas cho các giao dịch trên Solana Dapps",
-        "Cải thiện hiệu suất tổng thể để mang lại trải nghiệm tốt hơn",
-        "Hỗ trợ gửi giao dịch miễn phí cho các đồng stablecoin trên BNB Chain"
+        "Hỗ trợ gửi giao dịch miễn phí cho các đồng stablecoin trên opBNB Chain"
       ]
     }
   },
