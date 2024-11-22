@@ -1,15 +1,17 @@
 {
   "contents": {
     "EN": {
-      "title": "",
+      "title": "Enjoy the benefits of our newest updates:",
       "descriptions": [
-        "Support sending cost-free stablecoin transactions on opBNB Chain"
+        "Support sending cost-free stablecoin transactions on opBNB Chain",
+        "Enhance transaction experience on EVM DApps for smoother and more efficient"
       ]
     },
     "VI": {
-      "title": "",
+      "title": "Cùng tận hưởng những lợi ích từ phiên bản mới nhất:",
       "descriptions": [
-        "Hỗ trợ gửi giao dịch miễn phí cho các đồng stablecoin trên opBNB Chain"
+        "Hỗ trợ gửi giao dịch miễn phí cho các đồng stablecoin trên opBNB Chain",
+        "Cải thiện trải nghiệm khi giao dịch trên EVM DApps"
       ]
     }
   },
