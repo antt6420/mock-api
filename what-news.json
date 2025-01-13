@@ -1,17 +1,23 @@
 {
   "contents": {
     "EN": {
-      "title": "",
+      "title": "Be ready to explore our newest updates:",
       "descriptions": [
-        "Enhance user interface and performance for a better experience"
+        "New Testnet chains added including: Algorand, Amoy, Optimism Sepolia, Moonbase Alpha, Metis Sepolia, Fantom, Sepolia, Boba Sepolia, BSC, Avax-C Fuji, Aurora, Arbitrum Sepolia",
+        "Beacon has been removed as chain is no longer active",
+        "Support added for new TON addresses in token details, making management simpler",
+        "TON and SOL swaps now supported, making exchanges fast and easy."
       ]
     },
     "VI": {
-      "title": "",
+      "title": "Cùng khám phá những cập nhật mới nhất:",
       "descriptions": [
-        "Cải thiện giao diện và hiệu suất để mang lại cho bạn trải nghiệm mượt mà hơn"
+        "Thêm các chain testnet mới gồm: Algorand, Amoy, Optimism Sepolia, Moonbase Alpha, Metis Sepolia, Fantom, Sepolia, Boba Sepolia, BSC, Avax-C Fuji, Aurora, Arbitrum Sepolia",
+        "Ngừng hỗ trợ Beacon chain vì không còn hoạt động",
+        "Hỗ trợ thêm địa chỉ TON mới giúp việc quản lý dễ dàng hơn",
+        "Hỗ trợ swap giữa TON và SOL, giúp trao đổi nhanh chóng và dễ dàng"
       ]
     }
   },
-  "version": "9.7.2"
+  "version": "9.8.0"
 }
