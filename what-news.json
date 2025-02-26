@@ -3,19 +3,17 @@
     "EN": {
       "title": "Be ready to explore our newest updates:",
       "descriptions": [
-        "New Testnet chains added including: Algorand, Amoy, Optimism Sepolia, Moonbase Alpha, Metis Sepolia, Fantom, Sepolia, Boba Sepolia, BSC, Avax-C Fuji, Aurora, Arbitrum Sepolia",
-        "Beacon has been removed as chain is no longer active",
-        "Support added for new TON addresses in token details, making management simpler",
-        "TON and SOL swaps now supported, making exchanges fast and easy."
+        "New chains added including: Sonic, Beam, Rootstock, Stellar, Morph, Plume, Soneium Testnet",
+        "New UI: We’ve redesigned the app’s entire interface to deliver a fresh, modern, and easy-to-use experience.",
+        "Boosted Performance: Get faster logins and a smoother experience - everything’s tuned up for top speed!"
       ]
     },
     "VI": {
       "title": "Cùng khám phá những cập nhật mới nhất:",
       "descriptions": [
-        "Thêm các chain testnet mới gồm: Algorand, Amoy, Optimism Sepolia, Moonbase Alpha, Metis Sepolia, Fantom, Sepolia, Boba Sepolia, BSC, Avax-C Fuji, Aurora, Arbitrum Sepolia",
-        "Ngừng hỗ trợ Beacon chain vì không còn hoạt động",
-        "Hỗ trợ thêm địa chỉ TON mới giúp việc quản lý dễ dàng hơn",
-        "Hỗ trợ swap giữa TON và SOL, giúp trao đổi nhanh chóng và dễ dàng"
+        "Thêm các chain testnet mới gồm: Sonic, Beam, Rootstock, Stellar, Morph, Plume, Soneium Testnet",
+        "Giao diện mới: Chúng tôi đã làm mới toàn bộ giao diện ứng dụng để mang đến trải nghiệm hiện đại, trực quan và dễ sử dụng.",
+        "Hiệu suất cải thiện: Đăng nhập nhanh hơn, trải nghiệm mượt mà hơn - mọi thứ giờ đây được tối ưu để đạt tốc độ tối đa!"
       ]
     }
   },
